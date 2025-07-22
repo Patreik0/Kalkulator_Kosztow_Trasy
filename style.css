@@ -97,7 +97,7 @@ body {
 .footer {
   height: 50px;
   text-align: center ;
-  color: #777777;
+  color: #c5c5c5;
   text-decoration: none;
 }
 
@@ -108,5 +108,5 @@ body {
 }
 .footer a {
     text-decoration: none;
-    color: #777777;
+    color: #c5c5c5;
 }
